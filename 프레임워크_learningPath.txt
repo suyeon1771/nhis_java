@@ -1,0 +1,27 @@
+
+ * 프레임워크 Learning Path
+
+ 1. 자바 기본 
+    
+    추천교재: http://www.yes24.com/Product/Goods/63018062
+
+ 2. 오라클 SQL 
+   
+    추천교재: http://www.yes24.com/Product/Goods/60762533?OzSrank=2
+
+ 3. JSP/Servlet
+
+    추천교재: http://www.yes24.com/Product/Goods/37235901?OzSrank=1
+
+ 4. Spring 프레임워크
+
+     가. xml + 어노테이션 기반
+     추천교재: http://www.yes24.com/Product/Goods/14108937?OzSrank=50
+
+     나. 자바 configuration 기반
+     추천교재: http://www.yes24.com/Product/Goods/62268795?OzSrank=14
+             http://www.yes24.com/Product/Goods/90051375?OzSrank=16
+
+ 5. 전자정부 프레임워크
+  
+     교재: http://www.yes24.com/Product/Goods/66372749?OzSrank=1
